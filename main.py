@@ -31,7 +31,7 @@ async def on_message(message):
         # if you dont put args stuff can change
         if len(args) != 0:
           async for msg in channel.history(limit=20):
-              if msg.author == message.author and not msg.startswith('soychad'):
+              if msg.author == message.author and not msg.content.startswith('soychad'):
                   first_message = msg.content
                   break
           
