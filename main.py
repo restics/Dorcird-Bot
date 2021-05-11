@@ -3,7 +3,7 @@ import imageedit as ie
 import discord as dc
 
 
-token = 'ODI4MDU0MjA5OTk5NjY3MjAw.YGj_lA.wEW5eQsjgUJgkAK381ZLmqKGBkE'
+token = 'nah'
 client = cmd.Bot(command_prefix='cum ')
 
 
