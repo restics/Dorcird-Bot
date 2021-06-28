@@ -1,4 +1,4 @@
-##Excuse the name
+# Dorcird Bot
 
 This is a discord bot that just takes the most recent comments left by the command executor and tagged person, and puts them into a char vs wojak meme and posts it. 
 made it as a joke, also as an excuse to myself to try python after sitting in my chair doing nothing for too long. 
